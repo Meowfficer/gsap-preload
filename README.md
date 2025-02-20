@@ -10,7 +10,7 @@ This is a simple experiment using **GSAP** to create a preloader animation on a 
 ## 🔧 How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/username/gsap-preloader.git
+   git clone https://github.com/Meowfficer/gsap-preloader.git
    cd gsap-preloader
    ```
 2. Open `index.html` in a browser or run it using **Live Server**.
